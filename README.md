@@ -15,5 +15,5 @@ Siempre me ha gustado todo lo que sea de informática, en especial la programaci
 Por suerte en el 2023 con ayuda de mis familiares pude retomar los estudios que tanto siempre quise hacer y aquí me encuentro.
 
 ### Otra Información
-- Mis pasatiempos ultimamente sólo son los videojuegos.
+- Mis pasatiempos últimamente sólo son los videojuegos.
 - Tengo 5 gatos y 2 perros.
