@@ -4,9 +4,7 @@
 ## Presentación Personal
 
 ### Datos Personales
-- Mi nombre es:
-- Vivo en
-
+Hola mi nombre es Carlos Gabriel Galarza Rossi, tengo 34 años y estoy estudiando la Tecnicatura de Programación.
 
 ### Otra Información
 - Este es mi primer contacto con github
