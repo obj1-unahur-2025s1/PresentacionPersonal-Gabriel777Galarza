@@ -10,6 +10,10 @@ Soy de Villa Tesei y vivo cerca de la universidad asi que tenso suerte al no ten
 
 Ya estoy en el tercer cuatrimestre de la carrera en materias aunque en tiempo sería el cuarto ya que inicialmente me anoté en Programación de Videojuegos al no haber cupo para programación en 2023.
 
+Siempre me ha gustado todo lo que sea de informática, en especial la programación. En el año 2011 ingresé a la Universidad Nacional de la Matanza en la carrera de Ingeniería de Informática, lamentablemente por problema de fuerza mayor tuve que dejar los estudios y meterme en el mercado laboral en el cual tuve diferentes tipos de trabajo como vendedor de calzado, limpieza, camarero, delivery y boletero. Aunque el trabajo en el que mayor tiempo estuve fue en una ambulancia de traslado como camillero.
+
+Por suerte en el 2023 con ayuda de mis familiares pude retomar los estudios que tanto siempre quise hacer y aquí me encuentro.
+
 ### Otra Información
-- Este es mi primer contacto con github
-- Tengo un gato que se llama Timoteol
+- Mis pasatiempos ultimamente sólo son los videojuegos.
+- Tengo 5 gatos y 2 perros.
